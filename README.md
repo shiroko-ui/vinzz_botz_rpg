@@ -20,3 +20,9 @@ npm install
 
 npm start.js/npm start
 
+
+
+
+link download for panel 
+https://www.mediafire.com/file/dqqwlhmcuvrb801/VINZZ+BOTZ+RPG.zip/file
+
