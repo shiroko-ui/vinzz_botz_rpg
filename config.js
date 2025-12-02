@@ -4,7 +4,7 @@
  * Menggunakan @adiwajshing/baileys untuk koneksi WhatsApp
  */
 
-const { WAConnection, MessageType } = require('@adiwajshing/baileys')
+const { WAConnection, MessageType, Presence, Mimetype, processTime, ...dll } = require('@adiwajshing/baileys')
 const fs = require('fs')
 const path = require('path')
 
@@ -194,4 +194,5 @@ if (require.main === module) {
       logger.error('Failed to start bot:', err)
       process.exit(1)
     })
+
 }
